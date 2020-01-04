@@ -1,4 +1,4 @@
-# graph_convolutional_networks
+# gcn on tensorflow
 ### Feature representation of karate club
 
 3D ![image](https://github.com/frank0532/graph_convolutional_networks/blob/master/figs/karate-3.gif)
